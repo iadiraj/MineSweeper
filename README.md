@@ -24,7 +24,7 @@ This is an android application which is build using kotlin.
 - [x] Option to restart game anytime using the smile icon
 - [x] Option to mark-mine/open-mine using button in top bezel
 - [x] Instructions can be viewed by clicking on 'i' button on first page
-- [x] Saves the best time and the last game time (if the last game status is lost, it shows lost)
+- [x] Saves the best time and the last game time
 - [x] Option to share best time with friends
 
 # Getting Started
