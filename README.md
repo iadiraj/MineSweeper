@@ -7,7 +7,7 @@ Minesweeper is a single-player puzzle video game. The objective of the game is t
 This is an android application which is build using kotlin.
 
 ## First Screen
-![](MainPage.png)
+![](MainPage.png = 150x350)
 
 ## Instructions
 ![](Instructions.png)
