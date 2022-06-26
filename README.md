@@ -10,7 +10,7 @@ This is an android application which is build using kotlin.
 ![](MainPage.png)
 
 ## Instructions
-![](Instructions.png)
+![](Instruction.png)
 
 ## Game Screen
 ![](GamePage.png)
