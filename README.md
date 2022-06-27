@@ -26,6 +26,7 @@ This is an android application which is build using kotlin.
 - [x] Instructions can be viewed by clicking on 'i' button on first page
 - [x] Saves the best time and the last game time
 
+
 # Getting Started
 You need to have android studio installed on your device and create an Android Virtual Device to run full Android OS and test the application.
 
