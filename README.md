@@ -21,11 +21,10 @@ This is an android application which is build using kotlin.
 - [x] Mines are set randomly on first click
 - [x] Top bezel shows the mine count (Mines Left = number of mines - marked mines)
 - [x] Option to mark-mine/open-mine using button in top bezel
-- [x] Option to restart game anytime using the smile icon
+- [x] Option to restart game anytime using the button in top bezel
 - [x] Option to mark-mine/open-mine using button in top bezel
 - [x] Instructions can be viewed by clicking on 'i' button on first page
 - [x] Saves the best time and the last game time
-- [x] Option to share best time with friends
 
 # Getting Started
 You need to have android studio installed on your device and create an Android Virtual Device to run full Android OS and test the application.
