@@ -16,6 +16,7 @@ This is an android application which is build using kotlin.
 ![](GamePage.png)
 ![](GamePlay.png)
 
+
 # Features
 - [x] Three different difficulty levels with an option to create custom board
 - [x] Mines are set randomly on first click
